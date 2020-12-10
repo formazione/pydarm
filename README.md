@@ -16,3 +16,5 @@ The files are:
 
 - pydarm2.py (the main file)
 - dati/... (contains the questions)
+
+<img src="https://github.com/formazione/pydarm/blob/main/images/cover1.png?raw=true" />
