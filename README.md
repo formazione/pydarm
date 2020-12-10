@@ -9,7 +9,7 @@ Python (pydarm2.py) makes you:
 - replace the template html file with the html and javascript with the data from the test you choose
 - save the new html file with the new questions, ready to be posted on a site
 
-# What are these files
+# What are these files?
 
 This is a tool to make test in html, using python to automatize the process.
 The files are:
