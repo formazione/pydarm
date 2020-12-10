@@ -56,7 +56,7 @@ class Start:
 
 	def images(self):
 		self.imgslist = [
-			"https://tuocoach.files.wordpress.com/2018/11/cambiamento-10.jpg?w=345&h=294"
+			"https://picsum.photos/200"
 			]
 
 	def create_code_for_template(self):
